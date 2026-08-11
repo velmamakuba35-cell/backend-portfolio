@@ -120,7 +120,7 @@ async def portfolio():
 
                 <p>
                     <strong>Student Name:</strong>
-                    PETER MUTETHIA MWITHALII
+                    VELMA MAKUBA AMUKONYI
                 </p>
 
                 <p class="admission">
